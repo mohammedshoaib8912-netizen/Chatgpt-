@@ -261,7 +261,6 @@ const filteredConversations = computed(() => {
   color: var(--text-primary);
   transition: background var(--transition-fast);
   position: relative;
-  group;
 }
 
 .conversation-item:hover {
